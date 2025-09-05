@@ -1,9 +1,9 @@
 # Hi 👋, I'm Danylo
 
 ![Profile Banner](https://img.shields.io/badge/Unity-2025-brightgreen?style=flat&logo=unity)
-![Profile Banner](https://img.shields.io/badge/C%23-StrongJunior-blue?style=flat&logo=csharp)
+![Profile Banner](https://img.shields.io/badge/C%23-Strong%20Junior-blue?style=flat&logo=csharp)
 ![Profile Banner](https://img.shields.io/badge/Unity%20Developer-3D&2D-purple?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-ObjectPool,Factory,EventBus-lightgrey?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-ObjectPool,%20Factory,%20EventBus-lightgrey?style=flat-square)
 ![Zenject](https://img.shields.io/badge/Zenject-DI-blue?style=flat-square)
 ![VContainer](https://img.shields.io/badge/VContainer-DI-purple?style=flat-square)
 ![DoTween](https://img.shields.io/badge/DoTween-Animations-pink?style=flat-square)
@@ -13,7 +13,7 @@
 
 ---
 
-## About Me
+# **About Me**
   I'm a Unity developer with a strong love for making fun and engaging games. I enjoy bringing ideas to life, experimenting with gameplay, and constantly improving my skills. I’ve worked on both commercial projects (solo/team) and personal prototypes.
 
   I try to follow best practices and enjoy using design patterns like Object Pooling, Factory, Event Bus and more. I use dependency injection tools like Zenject and VContainer for scalable architectures.
@@ -22,33 +22,52 @@
 
 ---
 
-## Skills
+# **Skills**
 ### Programming & Engines
 - Unity 3D & 2D
-- C# / C++
-- DOTween, Odin Inspector, Zenject
-- Firebase & Google Sign-In API
-- WebGL / Mobile optimization
+- UI
+- Unity Physics
+- C#
+- DOTween
+- Zenject/VContainer
+- Ads Mediation (IronSource/Unity LevelPlay)
+- Firebase (Authentication, Database)
+- SOLID, OOP, DRY, KISS, YAGNI
+- Game Optimization
 
 ### Tools
-- ![C#](https://img.shields.io/badge/C%23-Programming-red?style=flat-square)
-- ![Unity](https://img.shields.io/badge/Unity-Game%20Dev-brightgreen?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-yellow?style=flat-square)
+- **Unity tools**
+    - Odin Inspector
+    - Profiler
+    - Android Logcat
+    - Recorder (Image, Movie, Animation)
 
-
+- **External Tools**
+    - Photoshop
+    - Git (GitHub, GitLab, Bitbucker)
+    - Workflow (Trello, ClickUp, Slack, Figma, Canva)
+    - IDE (Rider, Visual Studio)
+    - AI (ChatGPT, Midjorney, Claude)
 ---
 
-## My Current Projects
-- Zombie Invasion (3D survival)
-
----
-
-## GitHub Stats
-![Danylo's GitHub stats]([https://github-readme-stats.vercel.app/api?username=danylo&show_icons=true&theme=radical])
-
+## Education
+- ***Computer Software Engineering*** <br>
+ Chervonograd Mining and Economic Vocation College (2020 - 2024)
+- ***Information System and Technologies*** <br>
+Lviv National Enviromental University (2024 - 2027) 
+## Courses
+- ***Unity3D Developer*** <br>
+[Foxminded](https://drive.google.com/file/d/13LKIbGJttLwvMwbq0h66gEeIx2D14rn8/view?usp=drivesdk) (September 2023 - January 2024)
+## Languages
+- Ukrainian (Native)
+- English (B1)
 ---
 
 ## Contact
-- ✉️ Email: `your.email@example.com`
-- 💬 Discord: `danylo#1234`
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec06c8f5-4a7a-4477-82ca-42835fb0f137" /> Email: [`ddssoolloovvkkoo4400@gmail.com`](mailto:ddssoolloovvkkoo4400@gmail.com)
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a1147cd4-3616-4ed2-ae8b-df3f968588ab" /> Telegram: [`@amareGD`](https://t.me/amareGD)
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1499ef42-2eca-4a54-a62a-ca8ba0ff05bb" /> LinkedIn: [`Danylo Solovko`](https://www.linkedin.com/in/danylosolovko/)
+---
+
+# **My Projects**
+##Zombie Invasion (3D survival)
