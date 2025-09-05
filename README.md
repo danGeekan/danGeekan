@@ -14,15 +14,15 @@
 ---
 
 # **About Me**
-  I'm a Unity developer with a strong love for making fun and engaging games. I enjoy bringing ideas to life, experimenting with gameplay, and constantly improving my skills. I’ve worked on both commercial projects (solo/team) and personal prototypes.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a Unity developer with a strong love for making fun and engaging games. I enjoy bringing ideas to life, experimenting with gameplay, and constantly improving my skills. I’ve worked on both commercial projects (solo/team) and personal prototypes.
 
-  I try to follow best practices and enjoy using design patterns like Object Pooling, Factory, Event Bus and more. I use dependency injection tools like Zenject and VContainer for scalable architectures.
+&nbsp;&nbsp;&nbsp;&nbsp;I try to follow best practices and enjoy using design patterns like Object Pooling, Factory, Event Bus and more. I use dependency injection tools like Zenject and VContainer for scalable architectures.
 
-  Let's make something amazing together! Check out my projects below, and feel free to connect with me.
+&nbsp;&nbsp;&nbsp;&nbsp;Let's make something amazing together! Check out my projects below, and feel free to connect with me.
 
 ---
 
-# **Skills**
+# **Skills** <br>
 ### Programming & Engines
 - Unity 3D & 2D
 - UI
@@ -71,9 +71,20 @@ Lviv National Enviromental University (2024 - 2027)
 <br>
 
 # **My Projects**<br>
-## **[Zombie Invasion (3D survival)](https://github.com/danGeekan/zombie-invasion)**
 
+## **[Zombie Invasion (3D survival)](https://github.com/danGeekan/zombie-invasion)**
+### Screenshots
+<img width="207" height="448" alt="image" src="" />
+<img width="207" height="448" alt="image" src="" />
+<img width="207" height="448" alt="image" src="" />
+<img width="207" height="448" alt="image" src="" /> 
+
+### [Gameplay Video]()
+- **Platform**: *-* <br>
+- **Description**: *-* <br>
+- **Game features**: *-*
 ---
+
 ## **[Stick&Shoot](https://github.com/danGeekan/stick-shoot)**
 ### Screenshots
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/48bd2131-9904-40dd-ba5f-13e6aa80f747" />
