@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I try to follow best practices and enjoy using design patterns like Object Pooling, Factory, Event Bus and more. I use dependency injection tools like Zenject and VContainer for scalable architectures.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Let's make something amazing together! Check out my projects below, and feel free to connect with me.
+&nbsp;&nbsp;&nbsp;&nbsp;**Let's make something amazing together! Check out my projects below, and feel free to connect with me.**
 
 ---
 
@@ -71,18 +71,22 @@ Lviv National Enviromental University (2024 - 2027)
 <br>
 
 # **My Projects**<br>
-
 ## **[Zombie Invasion (3D survival)](https://github.com/danGeekan/zombie-invasion)**
 ### Screenshots
-<img width="207" height="448" alt="image" src="" />
-<img width="207" height="448" alt="image" src="" />
-<img width="207" height="448" alt="image" src="" />
-<img width="207" height="448" alt="image" src="" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/453b0c1f-e9fc-474e-b895-7c247344c503" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/910cc434-2f81-4cd2-a1d0-99b628169400" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/9a84d473-ed93-42e9-a1a7-451bc60f6b58" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/d1ca38a5-a182-4da6-a0bd-544cd5939a08" />
 
-### [Gameplay Video]()
-- **Platform**: *-* <br>
-- **Description**: *-* <br>
-- **Game features**: *-*
+### [Gameplay Video](https://drive.google.com/file/d/1PjABlgw_PsNDuvBpDcE3SWbWRwyGWSjM/view?usp=drive_link)
+
+- **Platform**: *Android* <br>
+- **Description**: *This is a pet project through which I explored and learned many new and interesting things. The game was developed entirely on my own from scratch (except for the models and sprites).* <br>
+- **Game features**:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;*The game supports Google sign-in with Firebase and saves player progress in Firestore. It also includes ads mediation with Unity LevelPlay, integrating AdMob and Unity Ads with three ad formats: banners, rewarded ads (shown after death), and interstitials (displayed after every second win).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;On the gameplay side, zombies spawn randomly across the map, so every level feels different. There’s also a car explosion effect when the player dies, optimized by recording a custom animation in Unity.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The project follows SOLID and OOP principles, uses Zenject for dependency injection, and applies design patterns like Object Pooling (for zombies, bullets, and effects) and an Event Bus (for game state management).*
+
 ---
 
 ## **[Stick&Shoot](https://github.com/danGeekan/stick-shoot)**
@@ -93,7 +97,7 @@ Lviv National Enviromental University (2024 - 2027)
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7257694b-e944-48ac-840e-500f4b7d614a" /> 
 
 ### [Gameplay Video](https://drive.google.com/file/d/1nlU626D5JFrWtzhQ3TQA1muRaSkABx6R/view?usp=drive_link)
-- **Platform**: *Android* <br>
+- **Platform**: *IOS* <br>
 - **Description**: *I made this game from scratch, starting with the first idea and bringing it to this version. (The sprites were drawn by an artist)* <br>
 - **Game features**: *The game features an in-game shop, a level selection menu, and music and sound controls. It includes a start screen and multiple playable levels. UI animations were created using DOTween, and game data is stored in JSON files.*
 
