@@ -68,6 +68,21 @@ Lviv National Enviromental University (2024 - 2027)
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a1147cd4-3616-4ed2-ae8b-df3f968588ab" /> Telegram: [`@amareGD`](https://t.me/amareGD)
 - <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/1499ef42-2eca-4a54-a62a-ca8ba0ff05bb" /> LinkedIn: [`Danylo Solovko`](https://www.linkedin.com/in/danylosolovko/)
 ---
+<br>
 
-# **My Projects**
-##Zombie Invasion (3D survival)
+# **My Projects**<br>
+## **[Zombie Invasion (3D survival)](https://github.com/danGeekan/zombie-invasion)**
+
+---
+## **[Stick&Shoot](https://github.com/danGeekan/stick-shoot)**
+### Screenshots
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/48bd2131-9904-40dd-ba5f-13e6aa80f747" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/eb9b3c9b-4287-4bdc-95ed-3c7b942fcb7f" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7ead113c-765f-4478-8652-b9cc9f29b45d" />
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7257694b-e944-48ac-840e-500f4b7d614a" /> 
+
+### [Gameplay Video](https://drive.google.com/file/d/1nlU626D5JFrWtzhQ3TQA1muRaSkABx6R/view?usp=drive_link)
+- **Platform**: *Android* <br>
+- **Description**: *I made this game from scratch, starting with the first idea and bringing it to this version. (The sprites were drawn by an artist)* <br>
+- **Game features**: *The game features an in-game shop, a level selection menu, and music and sound controls. It includes a start screen and multiple playable levels. UI animations were created using DOTween, and game data is stored in JSON files.*
+
