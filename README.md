@@ -25,9 +25,9 @@
 # **Skills** <br>
 ### Programming & Engines
 - Unity 3D & 2D
-- UI
-- Unity Physics
-- C#
+- UI (Canvas)
+- Unity Physics (3D & 2D)
+- C# (base knowledge, async/await, collections, events)
 - DOTween
 - Zenject/VContainer
 - Ads Mediation (IronSource/Unity LevelPlay)
