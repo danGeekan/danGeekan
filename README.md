@@ -24,9 +24,9 @@
 - WebGL / Mobile optimization
 
 ### Tools
-![C#](https://img.shields.io/badge/C%23-Programming-red?style=flat-square)
-![Unity](https://img.shields.io/badge/Unity-Game%20Dev-brightgreen?style=flat-square)
-![Zenject](https://img.shields.io/badge/Zenject-DI-blue?style=flat-square)
+- ![C#](https://img.shields.io/badge/C%23-Programming-red?style=flat-square)
+- ![Unity](https://img.shields.io/badge/Unity-Game%20Dev-brightgreen?style=flat-square)
+- ![Zenject](https://img.shields.io/badge/Zenject-DI-blue?style=flat-square)
 ![VContainer](https://img.shields.io/badge/VContainer-DI-purple?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-Principles-orange?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-yellow?style=flat-square)
