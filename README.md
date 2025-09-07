@@ -47,7 +47,7 @@
     - Git (GitHub, GitLab, Bitbucker)
     - Workflow (Trello, ClickUp, Slack, Figma, Canva)
     - IDE (Rider, Visual Studio)
-    - AI (ChatGPT, Midjorney, Claude)
+    - AI (ChatGPT, Midjourney, Claude)
 ---
 
 ## Education
