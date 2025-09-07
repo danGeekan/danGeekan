@@ -99,5 +99,6 @@ Lviv National Enviromental University (2024 - 2027)
 ### [Gameplay Video](https://drive.google.com/file/d/1nlU626D5JFrWtzhQ3TQA1muRaSkABx6R/view?usp=drive_link)
 - **Platform**: *IOS* <br>
 - **Description**: *I made this game from scratch, starting with the first idea and bringing it to this version. (The sprites were drawn by an artist)* <br>
-- **Game features**: *The game features an in-game shop, a level selection menu, and music and sound controls. It includes a start screen and multiple playable levels. UI animations were created using DOTween, and game data is stored in JSON files.*
+- **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;Stick&Shoot is a fast-paced game where precision matters. Built with Unity, C#, and clean code principles, the game uses Factory Pattern, DoTween for smooth animations, and Bootstrap for object initialization.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The game features an in-game shop, a level selection menu, and music and sound controls. It includes a start screen and multiple playable levels. Progress is saved via JSON. Also you can use two fingers to accelerate the ball, collect gold stars to unlock unique skins (some of which have special abilities, like shields and coin multipliers), etc.*
 
