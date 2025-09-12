@@ -31,7 +31,7 @@
 - DOTween
 - Zenject/VContainer
 - Ads Mediation (IronSource/Unity LevelPlay)
-- Firebase (Authentication, Database)
+- Firebase (Authentication, Database, Analytics)
 - SOLID, OOP, DRY, KISS, YAGNI
 - Game Optimization
 
