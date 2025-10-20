@@ -102,3 +102,20 @@ Lviv National Enviromental University (2024 - 2027)
 - **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;Stick&Shoot is a fast-paced game where precision matters. Built with Unity, C#, and clean code principles, the game uses Factory Pattern, DoTween for smooth animations, and Bootstrap for object initialization.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;The game features an in-game shop, a level selection menu, and music and sound controls. It includes a start screen and multiple playable levels. Progress is saved via JSON. Also you can use two fingers to accelerate the ball, collect gold stars to unlock unique skins (some of which have special abilities, like shields and coin multipliers), etc.*
 
+---
+
+## **Capture The Tower**
+### Screenshots
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/12f9f709-05b7-4c09-83d0-be0cef20c96f" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/05e56025-d608-4b3b-88a2-9734806811c0" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7e9a86e9-1836-4e37-95b7-df411a1b0e1e" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/bd31e8cc-e087-48b5-94ef-7f403dacf81f" /> 
+
+
+### [Gameplay Video](https://drive.google.com/file/d/1CXkTK-qzfqh_Iki0vkUgF7_KATEP1NmV/view?usp=drive_link)
+- **Platform**: *Android* <br>
+- **Description**: *This was one of the games I created for a client. I handled every part of the development myself — from gameplay and design to implementation — except for the 3D models (and their animations), sprites, and music.* <br>
+- **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;It’s a casual tower capture game inspired by Tower War on PlayMarket. The player can upgrade three main stats: the speed of spawning soldiers, the rate of their production, and the initial number of soldiers. The game includes five stages of enemy towers with increasing difficulty.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;A bot opponent makes its own decisions by attacking the nearest enemy or neutral tower. The project also features a simple progress saving system, and I used DoTween to make the UI smooth and dynamic.*
+
