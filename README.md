@@ -107,9 +107,9 @@ Lviv National Enviromental University (2024 - 2027)
 ## **Capture The Tower**
 ### Screenshots
 
-<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/12f9f709-05b7-4c09-83d0-be0cef20c96f" /> 
-<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/05e56025-d608-4b3b-88a2-9734806811c0" /> 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/7e9a86e9-1836-4e37-95b7-df411a1b0e1e" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/05e56025-d608-4b3b-88a2-9734806811c0" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/12f9f709-05b7-4c09-83d0-be0cef20c96f" /> 
 <img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/bd31e8cc-e087-48b5-94ef-7f403dacf81f" /> 
 
 
@@ -118,4 +118,21 @@ Lviv National Enviromental University (2024 - 2027)
 - **Description**: *This was one of the games I created for a client. I handled every part of the development myself — from gameplay and design to implementation — except for the 3D models (and their animations), sprites, and music.* <br>
 - **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;It’s a casual tower capture game inspired by Tower War on PlayMarket. The player can upgrade three main stats: the speed of spawning soldiers, the rate of their production, and the initial number of soldiers. The game includes five stages of enemy towers with increasing difficulty.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;A bot opponent makes its own decisions by attacking the nearest enemy or neutral tower. The project also features a simple progress saving system, and I used DoTween to make the UI smooth and dynamic.*
+
+---
+
+## **Plinko**
+### Screenshots
+
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/1dbd3d76-6e12-45e9-b903-1b5c910773c5" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/3858a0f9-837e-4939-922a-e6056a5bb5df" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/b50eb77c-8c84-4b87-b021-0dc80b71d019" /> 
+<img width="207" height="448" alt="image" src="https://github.com/user-attachments/assets/aec1184e-a7f7-4c44-a55a-c18ec6424b21" /> 
+
+
+### [Gameplay Video](https://drive.google.com/file/d/1EMoSLksH1-ZuVFXU0YWuOCfz5DDa-_zS/view?usp=drive_link)
+- **Platform**: *IOS* <br>
+- **Description**: *This was one of the games I created for a client. I handled every part of the development myself, from gameplay and design to implementation, except for the sprites and music.* <br>
+- **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;The game features in-app purchases and offers four different types of upgrades for the player. The maps are generated dynamically using a variety of prefabs, which makes each level feel a bit different. Almost all of the sprites were created with the help of AI, giving the game a unique and consistent visual style.*
+<br> *&nbsp;&nbsp;&nbsp;&nbsp;The maps also include shields that the player can pick up to protect their ball from a single hit with an obstacle.*
 
