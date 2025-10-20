@@ -136,3 +136,16 @@ Lviv National Enviromental University (2024 - 2027)
 - **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;The game features in-app purchases and offers four different types of upgrades for the player. The maps are generated dynamically using a variety of prefabs, which makes each level feel a bit different. Almost all of the sprites were created with the help of AI, giving the game a unique and consistent visual style.*
 <br> *&nbsp;&nbsp;&nbsp;&nbsp;The maps also include shields that the player can pick up to protect their ball from a single hit with an obstacle.*
 
+## **Pool 8**
+### Screenshot
+
+<img width="621" height="1344" alt="image" src="https://github.com/user-attachments/assets/cdf49b1d-1de8-4ac7-af98-a52a71db5a06" /> 
+
+### [Gameplay Video](https://drive.google.com/file/d/1nNNCcWDXwQ3ymDwahqEe3B5lo2FunWNl/view?usp=drive_link)
+- **Platform**: *PC* <br>
+- **Description**: *This game was created as part of the “Mentoring course Unity3D” at Foxminded.* <br>
+- **Game features**: *<br>&nbsp;&nbsp;&nbsp;&nbsp;Classic 8-ball pool game. In this game, I utilized Physics3D, UI and 2D Sprites. You can hit the balls into the holes to score points. Additionally, there is a time counter.*
+
+---
+
+
